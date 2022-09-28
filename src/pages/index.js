@@ -12,7 +12,7 @@ export default () => {
   return (
     <AppContainer>
       <SEO
-        title="বাংলা ডেভেলপার চিটশিট"
+        title="Bangla Development Site"
         description="ডেভেলপারদের জন্য, ডেভেলপারদের দ্বারা, মাতৃভাষা বাংলায় সবচেয়ে বড় চিটশিট ভান্ডার"
       />
       <HeroContainer />
