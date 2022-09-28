@@ -3,7 +3,7 @@ module.exports = {
     title: `ডেভ সংকেত`,
     description: `বাংলা চিটশিটের ভান্ডার`,
     author: `devsonket`,
-    siteUrl: `https://www.devsonket.com`,
+    siteUrl: `https://tdyso.github.io`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
